@@ -7,4 +7,8 @@
 
 每次new Sigar获取的只是瞬时的结果，不能自动随时间更新
 
+## 运行
+引入sigar.jar与lib文件。
+
+
 ![界面](./image/ui.JPG)
